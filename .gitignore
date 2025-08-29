@@ -1,0 +1,5 @@
+# Archivos sensibles y compilados
+__pycache__/
+*.pyc
+credentials.json
+.env
